@@ -1,3 +1,6 @@
+/* KRISHANU DAS
+   20BCE2325
+   krishjr05@gmail.com */
 import java.util.Scanner;
 
 public class Lab1Q2 {
